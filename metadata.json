@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Manga Describer AI",
+  "description": "Una aplicación especializada que utiliza Gemini 2.5 Flash para analizar y describir páginas de manga, rechazando otros tipos de imágenes.",
+  "requestFramePermissions": []
+}
